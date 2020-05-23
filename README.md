@@ -1,2 +1,2 @@
 # github_from-eclips
-computer example
+computer example tnne frist amo
